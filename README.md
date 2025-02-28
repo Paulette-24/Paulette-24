@@ -6,15 +6,15 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 </p>
 
-## 🚀 About Me
+## 😊 About Me
 I am a Data Scientist passionate about Data Analysis, Visualization, and Machine Learning.  I enjoy solving problems, transforming ideas into digital solutions, and exploring new technologies.
-
 - 📍 Based in Nairobi, Kenya  
-- 🔭 I’m currently working on data-driven projects  
-- 🌱 Learning SQL, Python, and Machine Learning  
+- 🔭 I’m currently working on data-driven projects 
+- 🌱 Learning SQL, Python, and Machine Learning 
 - ⚡ Fun fact: I love nature documentaries and tech innovations
+- 🎯 Looking for collaborations & open-source contributions
 
-## 🛠️ Tech Stack
+## 💻⚙️ Tools & Tech I Use
 <!-- Programming Languages -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -46,18 +46,18 @@ I am a Data Scientist passionate about Data Analysis, Visualization, and Machine
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
-## 📊 My GitHub Stats
+## 📈 GitHub Activity & Insights
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Paulette-24&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paulette-24&theme=radical" width="48%" alt="GitHub Streak">
 </div>
 
-## ✨ Quote of the Day
+## 💡Thoughts for Success
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </div>
 
-## 📫 Connect With Me
+## 🤝Let’s Connect & Collaborate
 <div align="center">
   <a href="https://YOUR-PORTFOLIO.com">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
