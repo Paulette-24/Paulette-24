@@ -49,7 +49,6 @@ I am a Data Scientist passionate about Data Analysis, Visualization, and Machine
 ## 📈 GitHub Activity & Insights
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Paulette-24&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paulette-24&theme=radical" width="48%" alt="GitHub Streak">
 </div>
 
 ## 💡Thoughts for Success
