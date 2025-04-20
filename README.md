@@ -58,7 +58,7 @@ I am a Data Scientist passionate about Data Analysis, Visualization, and Machine
 
 ## 🤝Let’s Connect & Collaborate
 <div align="center">
-  <a href="https://paulette-24.github.io/css-js-html-portfolio/">
+  <a href="https://paulette-24.github.io/My-Portfolio-Website/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/YOUR-LINKEDIN">
